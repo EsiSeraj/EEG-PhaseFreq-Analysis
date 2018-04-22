@@ -1,7 +1,8 @@
 # EEG-PhaseFreq-Analysis
 Cerebral Signal's Instantaneous Parameters (Phase, Frequency &amp; Envelope) Estimation &amp; Analysis MATLAB Toolbox
 
-This document (link provided above) is meant to help individuals use the "Cerebral Signal Phase Analysis" toolbox which implements different methods for estimating the instantaneous phase and frequency of a signal and calculating some related popular quantities.
+This document (link provided above) is meant to help individuals use the "Cerebral Signal Phase Analysis" toolbox which implements different methods for estimating the instantaneous phase and frequency of a signal and calculating some related popular quantities. The latest version of toolbox documentation can be downloaded directly at the address:
+	https://arxiv.org/pdf/1610.02249v2.pdf
 
 The toolbox – which is distributed under the terms of the GNU GENERAL PUBLIC LICENSE as a set of MATLAB routines – can be downloaded at the address:
 	http://oset.ir/category.php?dir=Tools
